@@ -1,4 +1,5 @@
 {
   "theme": "default",
-  "useProxy": true
+  "useProxy": true,
+  "language": "en"
 }
