@@ -1,0 +1,21 @@
+{
+  "_default": "Start default theme",
+  "default.background": "#000000",
+  "default.primary": "#10c64e",
+  "default.secondary": "#f1f1f1",
+  "default.tertiary": "#808080",
+  "default.loadingBackground": "#9d9d9d",
+  "default.placeholderBackgroundTop": "#3c3c3c",
+  "default.placeholderBackgroundBottom": "#000000",
+  "default.white": "#fff",
+  "default.clear": "#00000000",
+  "_secondary": "Start secondary theme",
+  "secondary.background": "#000000",
+  "secondary.primary": "#0264B2",
+  "secondary.secondary": "#f1f1f1",
+  "secondary.tertiary": "#C8E0F4",
+  "secondary.loadingBackground": "#9d9d9d",
+  "secondary.placeholderBackgroundTop": "#3c3c3c",
+  "secondary.placeholderBackgroundBottom": "#000000",
+  "secondary.clear": "#00000000"
+}
