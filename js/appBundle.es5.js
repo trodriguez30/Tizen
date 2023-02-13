@@ -35106,6 +35106,7 @@ var APP_com_zemoga_ztv = (function () {
       key: "_handleBack",
       value: function _handleBack() {
         this.closeVideoPlayer();
+        return true;
       }
     }, {
       key: "_handleEnter",
