@@ -35363,7 +35363,8 @@ var APP_com_zemoga_ztv = (function () {
       }
     }, {
       key: "_handleBack",
-      value: function _handleBack() {
+      value: function _handleBack(e) {
+        e.preventDefault();
         this.fireAncestors('$toggleAppBackground', true);
         this.$toggleLoader(true);
         this.Player.closeVideoPlayer();
