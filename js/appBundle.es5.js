@@ -7270,7 +7270,7 @@ var APP_com_zemoga_ztv = (function () {
    */
 
   var theme = "default";
-  var useProxy = false;
+  var useProxy = true;
   var language = "en";
   var backgroundColor = "0xff000000";
   var defaultAppConfiguration = {
