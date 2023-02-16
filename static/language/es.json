@@ -1,0 +1,23 @@
+{
+  "styleguide.title": "Guía de Estilos ZTV",
+  "styleguide.buttonsSection": "Botones",
+  "styleguide.progressBarSection": "Barra de Progreso",
+  "styleguide.buttonLabel": "Ver Ahora",
+  "styleguide.slidersSection": "Carrusel",
+  "SeeMore": "Ver más",
+  "loginview.title": "Elige una de estas opciones para iniciar sesión en tu TV",
+  "loginview.disclaimer": "¿No tienes una cuenta? Registrate en dtvgo.com/registro/roku",
+  "loginview.pincode.title": "Desde tu dispositivo móvil o web",
+  "loginview.pincode.description": "1. Ve a dtvgo.com/activar/roku \n2. Inicia sesión con tu cuenta DTV \n3. Ingresa el siguiente código cuando se te indique",
+  "loginview.qrcode.title": "Escanea el código QR",
+  "loginview.qrcode.description": "Utiliza la cámara o lector de códigos QR de tu dispositivo móvil y sigue las instrucciones:",
+  "loginview.error.noActivationCode": "Hubo un error generando el código de activación, por favor intenta de nuevo",
+  "loginview.error.cannotAuthenticateUser": "Hubo un error durante la autenticación, por favor intenta de nuevo",
+  "loginview.error.modalTitle": "Error",
+  "loginview.error.tryAgainButton": "Reintentar",
+  "loginview.error.cancelButton": "Cancelar",
+  "playerView.error.modalTitle": "Error",
+  "playerView.error.modalDescription": "No se pudo iniciar la reproducción. Por favor intenta de nuevo.",
+  "playerView.error.tryAgainButton": "Reintentar",
+  "playerView.error.cancelButton": "Cancelar"
+}
